@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "PortableLnk": {
+      "commandName": "Project",
+      "commandLineArgs": "c:\\Tools\\PortableApps\\PortableApps c:\\Tools\\!shortcuts"
+    }
+  }
+}
